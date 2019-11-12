@@ -1,0 +1,2 @@
+include ':app', ':listviewjava', ':kotlinlistview', ':recyclerviewjava', ':recyclerviewkotlin', ':recyclerviewpizzajaz'
+rootProject.name='My Application'
